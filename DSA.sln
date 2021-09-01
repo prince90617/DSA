@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSA", "DSA\DSA.csproj", "{DF570E5D-5240-403E-9398-B88A185F30F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSATest", "DSATest\DSATest.csproj", "{C95FF86F-1007-428E-9135-3F338A8473EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF570E5D-5240-403E-9398-B88A185F30F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF570E5D-5240-403E-9398-B88A185F30F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF570E5D-5240-403E-9398-B88A185F30F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF570E5D-5240-403E-9398-B88A185F30F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C95FF86F-1007-428E-9135-3F338A8473EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95FF86F-1007-428E-9135-3F338A8473EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95FF86F-1007-428E-9135-3F338A8473EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95FF86F-1007-428E-9135-3F338A8473EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C899C7D-5500-47FF-9E9A-C0C88D77720A}
+	EndGlobalSection
+EndGlobal
